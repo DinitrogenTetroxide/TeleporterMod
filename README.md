@@ -11,4 +11,4 @@ Thanks to pixelgaming579 and ASoD for allowing to use parts of their code.
 This mod uses SFS Modloader version 1.1.x made by dani0105, which can be found [here.](https://github.com/105-Code/SFS-Modloader)
 
 1. Install Modloader.
-2. Download Teleporter.dll and move it to `Spaceflight Simulator_Data/MODS/Teleporter`
+2. Download Teleporter.dll from latest release and move it to `Spaceflight Simulator_Data/MODS/Teleporter`
